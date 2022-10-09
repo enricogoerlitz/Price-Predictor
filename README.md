@@ -1,12 +1,14 @@
 # Project: Price-Predictor
 
-## Installation
+## Installation with Anaconda
 
-### With Django
+<ol>
+    <li>conda create -n pp-env pip</li>
+    <li>conda activate pp-env</li>
+    <li>pip install -r requirements.txt</li>
+    <li>select the conda pp-env in your ipynb-Notebook</li>
+</ol>
 
-### With Python venv
-
-### With Anaconda
 
 ## Project Description
 
