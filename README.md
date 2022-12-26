@@ -18,4 +18,7 @@
 
 ### Data
 
-https://drive.google.com/file/d/1gWTudjOcSbBps7ZYSUDwGZ9rSPu9aBQ9/view
+https://drive.google.com/file/d/16cxEDz38ETPjLlF1uK7QWXnxRRcIJ6r1/view?usp=sharing
+
+### Exported Model
+
