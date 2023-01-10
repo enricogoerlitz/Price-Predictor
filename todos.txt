@@ -1,0 +1,7 @@
+EDA:
+    - target relation
+    - distribution
+    - missingno
+    - correlation matrix
+    - combination analysis of the features 
+    ...
